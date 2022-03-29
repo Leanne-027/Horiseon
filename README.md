@@ -1,6 +1,6 @@
 # Horiseon - Code Refactor
 Refactor the codebase in order to meet the accessibility standards and search engine optimization.
-Live demo 
+Live demo [_here_](https://leanne-027.github.io/Horiseon/)
 
 ## Table of contents
 * [General Info](#general-information)
